@@ -1,4 +1,4 @@
-Folder "Sinh file input": chứa tất cả các file cần cho việc sinh input
+Folder "Sinh file input": chứa tất cả các file cần cho việc sinh input \n
     - Code_816E-sinh_data.py: mã để sinh data, dùng trong việc kiểm tra độ phức tạp bằng thực nghiệm, được chỉnh sửa từ mã nguồn để giải bài toán 
     - Tao_input.py: mã tạo input 
     - Tonghop_input.py: mã tổng hợp các input được sinh ra từ file Tao_input.py
