@@ -20,4 +20,8 @@ Folder "Sinh file input": chứa tất cả các file cần cho việc sinh inpu
       
     - testcase.rar: file nén chứa các test case cho việc sinh data của file Code_816E-sinh_data.py  
  
-
+Hướng dẫn chạy:
+  - Chạy file Code_816E và nhập giá trị theo như đề bài.
+  - Để sinh dữ liệu để đánh giá độ phức tạp, bạn cần:
+    + Giải nén tập testcase.zip vào project hoặc chạy file Tao_input.py để sinh ra input mới.
+    + Sau đó, chạy file Code_816E-sinh_data.py để sinh ra file dpt.txt lưu độ phức tạp thực tế của từng test.
