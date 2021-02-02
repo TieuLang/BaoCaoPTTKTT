@@ -1,4 +1,6 @@
 Code_816E.py:  Mã nguồn cài đặt bài toán dùng làm báo cáo môn Phân tích thiết kế thuật toán, cũng là bài 816E trên Codeforces 
+
+Link đề bài trên codeforces: https://codeforces.com/problemset/problem/816/E hoặc https://codeforces.com/problemset/problem/815/C
   
 Code_de_quy.py: Mã đệ quy để kiểm tra tính chính xác của code, dùng trên các test nhỏ  
   
